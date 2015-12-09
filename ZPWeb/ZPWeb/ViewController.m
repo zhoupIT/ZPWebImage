@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  ZPWebImage
+//  ZPWeb
 //
-//  Created by 鹏 周 on 15/12/8.
+//  Created by 鹏 周 on 15/12/9.
 //  Copyright © 2015年 ycit. All rights reserved.
 //
 
@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"邱莎莎你好啊dsadasdasdasd");
+    // Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning {
